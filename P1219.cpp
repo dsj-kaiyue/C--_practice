@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define maxn 100
+#define maxn  100
 int a[maxn],n,ans;
 int b1[maxn],b2[maxn],b3[maxn];
 void dfs(int x)
